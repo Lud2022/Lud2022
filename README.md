@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img scr="li.png" width="70">
+<img scr="li.png" width="60">
 
 [![ghghgf](li.png)
 ](https://www.linkedin.com/in/lyudmila-kubysheva-084993280)
