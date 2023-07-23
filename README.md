@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img scr="li.png" width="50">
 
 [![ghghgf](li.png)
-](https://www.linkedin.com/in/lyudmila-kubysheva-084993280)
+](https://www.linkedin.com/in/lyudmila-kubysheva-084993280) [![oooohghgf](teme.png)](https://te.me/LyudaKub)
 
 [![oooohghgf](teme.png)](https://te.me/LyudaKub)
 
