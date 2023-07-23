@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 [![ghghgf](https://github.com/Lud2022/Lud2022/blob/main/Link.png)
 ](https://www.linkedin.com/in/lyudmila-kubysheva-084993280)
 
+![oooohghgf](https://te.me/LyudaKub)
