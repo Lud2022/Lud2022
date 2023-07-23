@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ghghgf](https://github.com/Lud2022/Lud2022/blob/main/Link.png)
+[![ghghgf](li.png)
 ](https://www.linkedin.com/in/lyudmila-kubysheva-084993280)
 
 [![oooohghgf](teme.png)](https://te.me/LyudaKub)
