@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img scr="li2.png" width="10">
+<img scr="li2.png" width="100">
 <img scr="teme.png" width="100">
 
 [![ghghgf](li2.png)
