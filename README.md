@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Connect with me!
 <img scr="li.png" width="100">
 <img scr="teme.png" width="50">
 
+### Connect with me!
 [![ghghgf](li.png)
-](https://www.linkedin.com/in/lyudmila-kubysheva-084993280)
-
-[![oooohghgf](teme.png)](https://te.me/LyudaKub)
+](https://www.linkedin.com/in/lyudmila-kubysheva-084993280) [![oooohghgf](teme.png)](https://te.me/LyudaKub)
