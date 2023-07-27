@@ -20,5 +20,5 @@ lyudmila.kubysheva@yandex.ru <br/>
 ✔ Unit economy <br/>
 ✔ Statistic analysis <br/>
 ✔ A/B tests <br/>
-✔ EDA
+✔ EDA <br/>
 ✔ ML
