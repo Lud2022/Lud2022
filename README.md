@@ -5,7 +5,7 @@
 - 🌱 I’m currently going through the practice after Yandex Practicum Data Analist courses,
   were I realised a number of projects based on real data and working at department of thermohydraulic calculations in Rosatom and
  .
-  I found Data Analist profession very interesting and I'd like to expand horizons and
+  I find Data Analist profession very interesting and I'd like to expand horizons and
   realize my talents in it.
 - 📫 How to reach me: +7(905)769-11-69
 - 😄 Pronouns: ...
