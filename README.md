@@ -2,11 +2,8 @@
 
 ### My name is Lyudmila!
 
-- 🌱 I’m currently going through the practice after Yandex Practicum Data Analist courses,
-  were I realised a number of projects based on real data and working at department of thermohydraulic calculations in Rosatom and
- .
-  I find Data Analist profession very interesting and I'd like to expand horizons and
-  realize my talents in it.
+- 🌱 I'v recently graduated from Data Analyst courses at Yandex Practicum. Currently I apply my knoliges and talantes on the important project based on the real data. In parallel I working as ingeneer designer at the department of thermohydraulic calculations in Rosatom.
+
 ### Connect with me!
 +7(905)769-11-69 <br/> <br/>
 lyudmila.kubysheva@yandex.ru <br/> <br/>
