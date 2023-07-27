@@ -10,7 +10,7 @@
 ### Connect with me!
 +7(905)769-11-69 <br/>
 lyudmila.kubysheva@yandex.ru <br/>
-[![ghghgf](li.png)
+%[![ghghgf](li.png)
 ](https://www.linkedin.com/in/lyudmila-kubysheva-084993280)% [![oooohghgf](teme.png)](https://te.me/LyudaKub)
 
 ### Skils and tools:<br/>
