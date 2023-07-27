@@ -2,7 +2,7 @@
 
 ### My name is Lyudmila!
 
-- 🌱 I'v recently graduated from Data Analyst courses at Yandex Practicum. Currently I apply my knoliges and talantes on the important project based on the real data. In parallel I working as ingeneer designer at the department of thermohydraulic calculations in Rosatom.
+- 🌱 I’ve recently graduated from Data Analyst courses at Yandex Practicum. Currently I apply my knowledge and talents on the important project based on the real data. In parallel, I working as engineer designer at the department of thermohydraulic calculations in Rosatom.
 
 ### Connect with me!
 +7(905)769-11-69 <br/> <br/>
