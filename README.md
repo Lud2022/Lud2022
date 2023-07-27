@@ -2,16 +2,12 @@
 
 ### My name is Lyudmila!
 
-<!--
-**Lud2022/Lud2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently looking for de
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently going through the practice after Yandex Practicum Data Analist courses,
+  were I realised a number of projects based on real data and working at department of thermohydraulic calculations in Rosatom and
+ .
+  I found Data Analist profession very interesting and I'd like to expand horizons and
+  realize my talents in it.
+- 📫 How to reach me: +7(905)769-11-69
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -19,5 +15,6 @@ Here are some ideas to get you started:
 <img scr="teme.png" width="50">
 
 ### Connect with me!
++7(905)769-11-69
 [![ghghgf](li.png)
 ](https://www.linkedin.com/in/lyudmila-kubysheva-084993280) [![oooohghgf](teme.png)](https://te.me/LyudaKub)
