@@ -8,8 +8,8 @@
   I find Data Analist profession very interesting and I'd like to expand horizons and
   realize my talents in it.
 ### Connect with me!
-+7(905)769-11-69 <br/>
-lyudmila.kubysheva@yandex.ru <br/>
++7(905)769-11-69 <br/> <br/>
+lyudmila.kubysheva@yandex.ru <br/> <br/>
 [![ghghgf](li.png)
   ](https://www.linkedin.com/in/lyudmila-kubysheva-084993280)    &nbsp; &nbsp; &nbsp;  [![oooohghgf](teme.png)](https://te.me/LyudaKub)
 
