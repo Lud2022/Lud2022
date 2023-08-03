@@ -15,7 +15,7 @@ lyudmila.kubysheva@yandex.ru <br/> <br/>
 
 ### Skils and tools:<br/>
 ✔ Python <br/>
-✔ PostgreSQL <br/>
+✔ SQL <br/>
 ✔ Tableau <br/>
 ✔ Unit economy <br/>
 ✔ Statistic analysis <br/>
